@@ -1,0 +1,52 @@
+form {
+    background-color: #CCE7FF;
+    padding: 10px;
+    height: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  label{
+    margin :20px;
+    font-size: 90%;
+  }
+ fieldset {
+    padding: 20px;
+    margin-bottom: 10px;
+
+
+  }
+  legend{
+    color: #a0522d;
+    font-size: large;
+  }
+  input{
+    background-color: #A6BEDE;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black;
+  }
+select{
+    background-color: #A6BEDE;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+option {
+    background-color: #A6BEDE;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+textarea {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.c1 {
+    margin-right: 50px;
+    background-color: #CCE7FF;
+    border: none;
+}
+
+
+  
